@@ -1,0 +1,13 @@
+{
+    "name": "willi/aset-dev",
+    "description": "The development version",
+    "type": "theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "William James",
+            "email": "williamjames.developer@gmail.com"
+        }
+    ],
+    "require": {}
+}
