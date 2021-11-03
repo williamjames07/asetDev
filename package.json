@@ -1,0 +1,19 @@
+{
+  "name": "asetdev",
+  "version": "0.0.0",
+  "description": "The development version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamjames07/asetDev.git"
+  },
+  "author": "William James",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/williamjames07/asetDev/issues"
+  },
+  "homepage": "https://github.com/williamjames07/asetDev#readme"
+}
